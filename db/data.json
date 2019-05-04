@@ -1,0 +1,4 @@
+[
+    { "descripcion": "Comer", "completado": false },
+    { "descripcion": "Salir de la casa", "completado": "true" }
+]
